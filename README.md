@@ -1,17 +1,16 @@
-### <center><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
- Hey Developers..! I'm Krupali Mehta</center>
+### <center><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">**Hey Developers..! I'm Krupali Mehta**</center>
  
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 <img align="right" alt="image" src="https://github.com/krupali1511/krupali1511//blob/main/img/tenor.gif?raw=true" width="220" height="146" />
 
 
-**Aout Me:**<br/>
-A passionate self-taught developer from India.
-My passion for software lies with dreaming up ideas and making them come true with elegant interfaces.
-Student at [Dharmsinh Desai University](http://ddu.ac.in);
-I take great care in the experience, architecture, and code quality of the things I build.
-I am always fond of community work, helping people.</br>
-💬 Ask me about anything, I am happy to help.
+**👨🏻‍💻Aout Me:**<br/>
+-->A passionate self-taught developer from India.<br/>
+-->My passion for software lies with dreaming up ideas and making them come true with elegant interfaces.<br/>>
+-->Student at [Dharmsinh Desai University](http://ddu.ac.in)<br/>
+-->I take great care in the experience, architecture, and code quality of the things I build.<br/>
+-->I am always fond of community work, helping people.</br>
+💬 Ask me about anything, I am happy to help.<br/>
 
 
 
@@ -28,40 +27,40 @@ Programming Language:
 <img src="https://img.shields.io/badge/-php-05122A?style=flat&logo=php"><br/>
 
 Frontend Development:
-<img src="https://img.shields.io/badge/-HTML-05122A?style=flat&logo=html5">
-<img src="https://img.shields.io/badge/-CSS-05122A?style=flat&logo=css3">
-<img src="https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap">
-<img src="https://img.shields.io/badge/-Angular-05122A?style=flat&logo=angular"><br/>
+<img src="https://img.shields.io/badge/-HTML-000?style=flat&logo=html5">
+<img src="https://img.shields.io/badge/-CSS-000?style=flat&logo=css3">
+<img src="https://img.shields.io/badge/-Bootstrap-000?style=flat&logo=bootstrap">
+<img src="https://img.shields.io/badge/-Angular-000?style=flat&logo=angular"><br/>
 
 Backend Development:
-<img src="https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js">
-<img src="https://img.shields.io/badge/-Express.js-05122A?style=flat&logo=express"><br/>
+<img src="https://img.shields.io/badge/-Node.js-000?style=flat&logo=node.js">
+<img src="https://img.shields.io/badge/-Express.js-000?style=flat&logo=express"><br/>
 
 Mobile App Development:
-<img src="https://img.shields.io/badge/-Android-05122A?style=flat&logo=android">
-<img src="https://img.shields.io/badge/-Flutter-05122A?style=flat&logo=flutter">
-<img src="https://img.shields.io/badge/-Dart-05122A?style=flat&logo=dart">
-<img src="https://img.shields.io/badge/-Kotlin-05122A?style=flat&logo=kotlin"><br/>
+<img src="https://img.shields.io/badge/-Android-000?style=flat&logo=android">
+<img src="https://img.shields.io/badge/-Flutter-000?style=flat&logo=flutter">
+<img src="https://img.shields.io/badge/-Dart-000?style=flat&logo=dart">
+<img src="https://img.shields.io/badge/-Kotlin-000?style=flat&logo=kotlin"><br/>
 
 Database:
-<img src="https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=mongodb">
-<img src="https://img.shields.io/badge/-SQlite-05122A?style=flat&logo=sqlite">
-<img src="https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql">
-<img src="https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql"><br/>
+<img src="https://img.shields.io/badge/-MongoDB-000?style=flat&logo=mongodb">
+<img src="https://img.shields.io/badge/-SQlite-000?style=flat&logo=sqlite">
+<img src="https://img.shields.io/badge/-MySQL-000?style=flat&logo=mysql">
+<img src="https://img.shields.io/badge/-PostgreSQL-000?style=flat&logo=postgresql"><br/>
 
 SaaS:
-<img src="https://img.shields.io/badge/-Firebase-05122A?style=flat&logo=firebase">
-<img src="https://img.shields.io/badge/-GoogleCloud-05122A?style=flat&logo=google"><br/>
+<img src="https://img.shields.io/badge/-Firebase-000?style=flat&logo=firebase">
+<img src="https://img.shields.io/badge/-GoogleCloud-000?style=flat&logo=google"><br/>
 
 Frameworks:
-<img src="https://img.shields.io/badge/-Django-05122A?style=flat&logo=django">
-<img src="https://img.shields.io/badge/-Dotnet-05122A?style=flat&logo=.net">
-<img src="https://img.shields.io/badge/-Jquery-05122A?style=flat&logo=jquery"><br/>
+<img src="https://img.shields.io/badge/-Django-000?style=flat&logo=django">
+<img src="https://img.shields.io/badge/-Dotnet-000?style=flat&logo=.net">
+<img src="https://img.shields.io/badge/-Jquery-000?style=flat&logo=jquery"><br/>
 
 Others:
-<img src="https://img.shields.io/badge/-Git-05122A?style=flat&logo=git">
-<img src="https://img.shields.io/badge/-Github-05122A?style=flat&logo=github">
-<img src="https://img.shields.io/badge/-Arduino-05122A?style=flat&logo=arduino"><br/>
+<img src="https://img.shields.io/badge/-Git-000?style=flat&logo=git">
+<img src="https://img.shields.io/badge/-Github-000?style=flat&logo=github">
+<img src="https://img.shields.io/badge/-Arduino-000?style=flat&logo=arduino"><br/>
 
 
 
