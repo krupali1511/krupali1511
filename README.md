@@ -5,18 +5,18 @@
 
 
 **👨🏻‍💻Aout Me:**<br/>
--->A passionate self-taught developer from India.<br/>
--->My passion for software lies with dreaming up ideas and making them come true with elegant interfaces.<br/>>
--->Student at [Dharmsinh Desai University](http://ddu.ac.in)<br/>
--->I take great care in the experience, architecture, and code quality of the things I build.<br/>
--->I am always fond of community work, helping people.</br>
+--> A passionate self-taught developer from India.<br/>
+--> My passion for software lies with dreaming up ideas and making them come true with elegant interfaces.<br/>
+--> Student at [Dharmsinh Desai University](http://ddu.ac.in)<br/>
+--> I take great care in the experience, architecture, and code quality of the things I build.<br/>
+--> I am always fond of community work, helping people.</br>
 💬 Ask me about anything, I am happy to help.<br/>
 
 
 
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------
-**🛠  Tech Stack**
+**🛠  Tech Stack** <br/>
 Programming Language:
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
