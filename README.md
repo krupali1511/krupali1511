@@ -66,7 +66,8 @@ Others:
 
 **📈 My GitHub Statistics**
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=krupali1511&show_icons=true&theme=tokyonight)
+
+[![Krupali's github stats](https://github-readme-stats.vercel.app/api?username=krupali1511&show_icons=true&theme=tokyonight)](https://github.com/krupali1511/github-readme-stats)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=krupali1511&layout=compact&theme=tokyonight)
 <br/>
 
